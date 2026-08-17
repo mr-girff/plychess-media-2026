@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:02,550
+The Dutch Defense can lose in five moves.
+
+2
+00:00:04,050 --> 00:00:06,880
+This is the Dutch Bishop Trap in the Dutch Defense.
+
+3
+00:00:08,040 --> 00:00:12,210
+The first moves look normal. Develop, challenge the center, and wait.
+
+4
+00:00:12,520 --> 00:00:14,680
+Natural moves hide the real idea.
+
+5
+00:00:16,610 --> 00:00:20,180
+The pieces point at the target. One loose defender is enough.
+
+6
+00:00:20,700 --> 00:00:24,630
+The bait appears. It looks free, but it is the trap's waiting move.
+
+7
+00:00:24,940 --> 00:00:28,080
+The reply is forcing. Calculate the next check.
+
+8
+00:00:29,030 --> 00:00:33,630
+The point is simple: The queen lands on h5 with every escape square covered.
+
+9
+00:00:33,940 --> 00:00:37,660
+The king has fewer choices. Every escape square is covered.
+
+10
+00:00:38,030 --> 00:00:42,060
+And now the queen lands on h5 with every escape square covered.
+
+11
+00:00:42,370 --> 00:00:46,090
+The tempting move fails because the position was built for this tactic.
+
+12
+00:00:46,460 --> 00:00:49,650
+Save the pattern. Spotting it one move earlier is the point.
+
+13
+00:00:50,550 --> 00:00:52,390
+Would you see it before taking the bait?
+
