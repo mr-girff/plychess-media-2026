@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:03,340
+Black wins a pawn, then loses the right to castle.
+
+2
+00:00:04,050 --> 00:00:06,880
+This is the Smith-Morra Attack in the Smith-Morra Gambit.
+
+3
+00:00:08,040 --> 00:00:12,210
+The first moves look normal. Develop, challenge the center, and wait.
+
+4
+00:00:12,520 --> 00:00:14,750
+Natural moves hide the real idea.
+
+5
+00:00:16,610 --> 00:00:20,160
+The pieces point at the target. One loose defender is enough.
+
+6
+00:00:20,700 --> 00:00:24,630
+The bait appears. It looks free, but it is the trap's waiting move.
+
+7
+00:00:24,940 --> 00:00:28,080
+The reply is forcing. Calculate the next check.
+
+8
+00:00:29,030 --> 00:00:34,930
+The point is simple: White uses development and a forcing queen trade to seize the initiative.
+
+9
+00:00:35,240 --> 00:00:38,960
+The king has fewer choices. Every escape square is covered.
+
+10
+00:00:39,330 --> 00:00:44,410
+And now White uses development and a forcing queen trade to seize the initiative.
+
+11
+00:00:44,720 --> 00:00:48,440
+The tempting move fails because the position was built for this tactic.
+
+12
+00:00:48,810 --> 00:00:52,000
+Save the pattern. Spotting it one move earlier is the point.
+
+13
+00:00:52,900 --> 00:00:54,740
+Would you see it before taking the bait?
+
