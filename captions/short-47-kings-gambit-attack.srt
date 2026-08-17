@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:03,730
+White sacrifices the f-pawn and opens every file.
+
+2
+00:00:04,050 --> 00:00:06,930
+This is the Kings Gambit Attack in the King's Gambit.
+
+3
+00:00:08,040 --> 00:00:12,210
+The first moves look normal. Develop, challenge the center, and wait.
+
+4
+00:00:12,520 --> 00:00:14,750
+Natural moves hide the real idea.
+
+5
+00:00:16,610 --> 00:00:20,180
+The pieces point at the target. One loose defender is enough.
+
+6
+00:00:20,700 --> 00:00:24,630
+The bait appears. It looks free, but it is the trap's waiting move.
+
+7
+00:00:24,940 --> 00:00:28,010
+The reply is forcing. Calculate the next check.
+
+8
+00:00:29,030 --> 00:00:34,550
+The point is simple: The sacrificed pawn buys open lines and a lead in development.
+
+9
+00:00:34,860 --> 00:00:38,580
+The king has fewer choices. Every escape square is covered.
+
+10
+00:00:38,950 --> 00:00:43,510
+And now the sacrificed pawn buys open lines and a lead in development.
+
+11
+00:00:43,820 --> 00:00:47,540
+The tempting move fails because the position was built for this tactic.
+
+12
+00:00:47,910 --> 00:00:51,100
+Save the pattern. Spotting it one move earlier is the point.
+
+13
+00:00:52,000 --> 00:00:53,840
+Would you see it before taking the bait?
+
