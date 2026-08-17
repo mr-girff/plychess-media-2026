@@ -1,0 +1,52 @@
+1
+00:00:00,060 --> 00:00:03,200
+A knight sacrifice drags the king into a fork.
+
+2
+00:00:04,050 --> 00:00:07,070
+This is the Fried Liver Attack in the Two Knights Defense.
+
+3
+00:00:08,040 --> 00:00:12,210
+The first moves look normal. Develop, challenge the center, and wait.
+
+4
+00:00:12,520 --> 00:00:14,750
+Natural moves hide the real idea.
+
+5
+00:00:16,610 --> 00:00:20,180
+The pieces point at the target. One loose defender is enough.
+
+6
+00:00:20,700 --> 00:00:24,630
+The bait appears. It looks free, but it is the trap's waiting move.
+
+7
+00:00:24,940 --> 00:00:28,080
+The reply is forcing. Calculate the next check.
+
+8
+00:00:29,030 --> 00:00:34,330
+The point is simple: The black king is forced into the center while white develops with tempo.
+
+9
+00:00:34,640 --> 00:00:38,360
+The king has fewer choices. Every escape square is covered.
+
+10
+00:00:38,730 --> 00:00:43,290
+And now the black king is forced into the center while White develops with tempo.
+
+11
+00:00:43,600 --> 00:00:47,320
+The tempting move fails because the position was built for this tactic.
+
+12
+00:00:47,690 --> 00:00:50,880
+Save the pattern. Spotting it one move earlier is the point.
+
+13
+00:00:51,780 --> 00:00:53,620
+Would you see it before taking the bait?
+
